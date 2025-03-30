@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "year": 2010,
+        "description": "A thief who enters the dreams of others to steal their secrets.",
+        "image": "/images/inception.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "year": 2014,
+        "description": "A team of explorers travels through a wormhole in space.",
+        "image": "/images/interstellar.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "year": 2008,
+        "description": "Batman battles the Joker in Gotham City.",
+        "image": "/images/darkknight.jpg"
+    }
+]
